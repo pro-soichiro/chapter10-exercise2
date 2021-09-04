@@ -50,6 +50,7 @@ section div {
   position: absolute;
   top: 0;
   left: 0;
+  /* ↓これはタグをspanで作れば見た目が同じになるため必要がなくなる */
   padding-bottom: 5px;
 }
 
