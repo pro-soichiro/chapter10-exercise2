@@ -3,3 +3,62 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+header {
+  height: 50px;
+  background-color: #FF9A4B;
+}
+
+main {
+  width: 960px;
+  display: flex;
+  padding: 50px 0;
+  margin: 0 auto;
+}
+
+section {
+  background-color: #EEE;
+  padding: 10px;
+  width: 300px;
+  position: relative;
+}
+
+section + section {
+  margin-left: 30px;
+}
+
+section div {
+  height: 150px;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.step1-img {
+  background-image: url(img/flow01.png);
+}
+.step2-img {
+  background-image: url(img/flow02.png);
+}
+.step3-img {
+  background-image: url(img/flow03.png);
+}
+
+.step-icon {
+  background-color: #FF9A4B;
+  color: #fff;
+  display: inline-block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-bottom: 5px;
+}
+
+section h3 {
+  padding: 15px 0 5px;
+}
+
+
+footer {
+  height: 50px;
+  background-color: #AAAAAA;
+}
