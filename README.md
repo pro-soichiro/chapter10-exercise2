@@ -1,9 +1,11 @@
+# DMM WEBCAMP コンテンツ【HTML/CSS を学ぼう】
 
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
-DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
+DMM WEBCAMP の学習コンテンツ HTML/CSS を学ぼうの提出課題です。
 
 ## 演習問題番号
-1-9
+
+1-10-2
 
 ## 使い方
-html/cssファイルのため、PCのブラウザで実行できます。
+
+html/css ファイルのため、PC のブラウザで実行できます。
